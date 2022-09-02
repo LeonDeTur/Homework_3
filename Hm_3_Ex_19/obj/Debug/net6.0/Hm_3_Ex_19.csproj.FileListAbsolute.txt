@@ -1,0 +1,15 @@
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\bin\Debug\net6.0\Hm_3_Ex_19.exe
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\bin\Debug\net6.0\Hm_3_Ex_19.deps.json
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\bin\Debug\net6.0\Hm_3_Ex_19.runtimeconfig.json
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\bin\Debug\net6.0\Hm_3_Ex_19.dll
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\bin\Debug\net6.0\Hm_3_Ex_19.pdb
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.csproj.AssemblyReference.cache
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.AssemblyInfoInputs.cache
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.AssemblyInfo.cs
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.csproj.CoreCompileInputs.cache
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.dll
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\refint\Hm_3_Ex_19.dll
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.pdb
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\Hm_3_Ex_19.genruntimeconfig.cache
+C:\Users\thebe\OneDrive\Рабочий стол\GIT\С#\Homework_1\С_sharp_Homework_2\C-Homework-2\Homework_3\Hm_3_Ex_19\obj\Debug\net6.0\ref\Hm_3_Ex_19.dll
