@@ -1,6 +1,21 @@
-﻿Console.WriteLine("Input number");
+﻿// Задача 19
+
+// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+
+// 14212 -> нет
+
+// 12821 -> да
+
+// 23432 -> да
+
+// Ввод данных
+Console.WriteLine("Input number");
 string? x = Console.ReadLine();
 
+// Выполнение методов
+WriteResult(CheckPolindrom(x));
+
+//Методы
 void WriteResult (bool Result)
 {
     if (Result != true)
@@ -12,6 +27,7 @@ void WriteResult (bool Result)
         Console.WriteLine("Является полендромом");
     } 
 }
+
 bool CheckPolindrom (string input)
 {
     int index = input.Length - 1;
@@ -27,7 +43,5 @@ bool CheckPolindrom (string input)
     return true;  
 }
 
-
-WriteResult(CheckPolindrom(x));
     
     
